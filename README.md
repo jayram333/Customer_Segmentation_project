@@ -7,3 +7,6 @@ pip install pandas matplotlib scikit-learn
 
 ## Run
 python customer_segmentation.py
+
+## internship id
+CITS1018
